@@ -1,0 +1,89 @@
+body {
+  font-family: initial;
+}
+h1 {
+  font-size: 28px;
+  color: rgb(160, 12, 72);
+}
+article {
+  border-left: 30px solid rgb(160, 12, 72);
+}
+h2 {
+  margin-top: 0%;
+  color: rgb(160, 12, 72);
+  font-size: 18px;
+  font-weight: lighter;
+}
+.image {
+  margin: 20px 20px;
+}
+hr {
+  color: rgb(160, 12, 72);
+  width: 100%;
+}
+.firsttd {
+  font-size: 13px;
+  width: 200px;
+  background-color: rgb(240, 236, 233);
+}
+.email {
+  text-decoration: none;
+  color: black;
+}
+.email:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.skills,
+.languages,
+.hobbies {
+  margin-top: 40px;
+}
+.secondtd {
+  font-size: 16px;
+  max-width: max-content;
+}
+.fin {
+  color: rgb(160, 12, 72);
+  font-style: italic;
+  font-weight: lighter;
+}
+.date {
+  color: rgb(160, 12, 72);
+  font-style: italic;
+  margin-top: 5px;
+}
+.projects,
+.ecole,
+.uni {
+  color: rgb(160, 12, 72);
+  text-decoration: none;
+  font-style: italic;
+  margin-top: 0;
+}
+.education,
+.exp,
+.fin {
+  margin-top: 40px;
+}
+
+.body {
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 5px rgb(160, 12, 72) solid;
+}
+label {
+  margin-left: 3%;
+  font-size: 16px;
+}
+.input {
+  background-color: rgb(255, 227, 242);
+  border-color: rgb(251, 167, 200);
+}
+.submit {
+  background-color: rgb(251, 167, 200);
+  border-color: rgb(160, 12, 72);
+}
+.submit:hover {
+  font-weight: bold;
+}
